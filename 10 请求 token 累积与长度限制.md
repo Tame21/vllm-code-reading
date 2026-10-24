@@ -147,4 +147,4 @@ num_output_tokens = 2
 
 </details>
 
-上一轮：[09 新 token 记录与停止检查](<09 新 token 记录与停止检查.md>)。下一处阅读入口：[`Scheduler.schedule()` 第 621–641 行](https://github.com/vllm-project/vllm/blob/e2d2680417432b80986a36d456e3d79173ee1a45/vllm/v1/core/sched/scheduler.py#L621-L641)。该入口属于第 12 轮，已布置阅读，尚未完成问答检验，本篇不展开其实现。
+上一轮：[09 新 token 记录与停止检查](<09 新 token 记录与停止检查.md>)。下一轮：[11 调度计数与 token 预算](<11 调度计数与 token 预算.md>)，对应已完成阅读与问答检验的第 12 轮。
